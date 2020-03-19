@@ -1,0 +1,71 @@
+{
+"skeleton": {
+	"hash": "cP64Vw2dMJ/whrfvGY0mc/CLK6E",
+	"spine": "3.8.68",
+	"x": -215,
+	"y": -183.01,
+	"width": 436,
+	"height": 441,
+	"images": "C:/Users/Administrator/Desktop/E_S101_01/E_S101_01",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "gas", "parent": "root", "x": -12.23, "y": 23.86 },
+	{ "name": "gas2", "parent": "root", "x": 26.31, "y": 11.43 }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "gas", "attachment": "Layer 1" },
+	{ "name": "Layer 1 copy", "bone": "gas2", "attachment": "Layer 1 copy" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 1": {
+				"Layer 1": { "x": 1.46, "y": 16.58, "width": 311, "height": 332 }
+			},
+			"Layer 1 copy": {
+				"Layer 1 copy": { "x": -23.31, "y": 26.06, "width": 436, "height": 441 }
+			}
+		}
+	}
+],
+"animations": {
+	"E_S101_01": {
+		"slots": {
+			"Layer 1 copy": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1.0333, "color": "ffffffff" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				]
+			},
+			"Layer 1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3667, "color": "ffffffff" },
+					{ "time": 2.6667, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"gas": {
+				"scale": [
+					{ "x": 0.5, "y": 0.5 }
+				]
+			},
+			"gas2": {
+				"translate": [
+					{ "x": 12.03, "y": 9.02 }
+				],
+				"scale": [
+					{ "x": 0.8, "y": 0.5 },
+					{ "time": 1.0333, "y": 0.5 },
+					{ "time": 2.6667, "x": 2 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,279 @@
+
+T_21801.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boddy
+  rotate: true
+  xy: 713, 282
+  size: 114, 154
+  orig: 114, 154
+  offset: 0, 0
+  index: -1
+cat eye
+  rotate: false
+  xy: 834, 252
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+cat eye2
+  rotate: true
+  xy: 962, 83
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+cat1
+  rotate: false
+  xy: 367, 2
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+cat2
+  rotate: false
+  xy: 769, 239
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+cat3
+  rotate: true
+  xy: 802, 239
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 978, 480
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+eye 1
+  rotate: false
+  xy: 415, 4
+  size: 85, 33
+  orig: 85, 33
+  offset: 0, 0
+  index: -1
+eye 1-2
+  rotate: false
+  xy: 877, 81
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+eye 1-3
+  rotate: true
+  xy: 943, 116
+  size: 82, 30
+  orig: 82, 30
+  offset: 0, 0
+  index: -1
+eye 1-4
+  rotate: true
+  xy: 992, 31
+  size: 82, 27
+  orig: 82, 27
+  offset: 0, 0
+  index: -1
+eye 2
+  rotate: true
+  xy: 978, 115
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+eye 2-2
+  rotate: true
+  xy: 877, 115
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+eye 2-3
+  rotate: true
+  xy: 910, 115
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 539, 53
+  size: 152, 168
+  orig: 152, 168
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 536, 5
+  size: 32, 115
+  orig: 32, 115
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 710, 2
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 367, 39
+  size: 170, 182
+  orig: 170, 182
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 869, 277
+  size: 150, 119
+  orig: 150, 119
+  offset: 0, 0
+  index: -1
+hat 
+  rotate: true
+  xy: 585, 280
+  size: 230, 126
+  orig: 230, 126
+  offset: 0, 0
+  index: -1
+left arm 
+  rotate: true
+  xy: 644, 226
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+left arm2
+  rotate: false
+  xy: 800, 452
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+left finger
+  rotate: true
+  xy: 978, 398
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+left finger2
+  rotate: false
+  xy: 502, 4
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 866, 239
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+left leg1
+  rotate: true
+  xy: 786, 2
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+left leg2
+  rotate: true
+  xy: 897, 200
+  size: 75, 124
+  orig: 75, 124
+  offset: 0, 0
+  index: -1
+mantau
+  rotate: false
+  xy: 367, 223
+  size: 216, 287
+  orig: 216, 287
+  offset: 0, 0
+  index: -1
+mantau2
+  rotate: true
+  xy: 748, 2
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+master
+  rotate: false
+  xy: 2, 2
+  size: 363, 508
+  orig: 363, 508
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: true
+  xy: 653, 3
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+musket
+  rotate: false
+  xy: 693, 64
+  size: 59, 160
+  orig: 59, 160
+  offset: 0, 0
+  index: -1
+right finger
+  rotate: false
+  xy: 978, 452
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+right finger2
+  rotate: false
+  xy: 978, 424
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: false
+  xy: 711, 231
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+right leg1
+  rotate: false
+  xy: 585, 223
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+right leg2
+  rotate: true
+  xy: 864, 5
+  size: 67, 112
+  orig: 67, 112
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 713, 406
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+under boddy
+  rotate: true
+  xy: 754, 74
+  size: 155, 121
+  orig: 155, 121
+  offset: 0, 0
+  index: -1

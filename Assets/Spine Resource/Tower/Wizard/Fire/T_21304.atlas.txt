@@ -1,0 +1,139 @@
+
+T_21304.png
+size: 767,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boddy
+  rotate: true
+  xy: 291, 9
+  size: 63, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1
+cristal
+  rotate: false
+  xy: 512, 2
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 413, 2
+  size: 97, 44
+  orig: 99, 116
+  offset: 1, 71
+  index: -1
+effect1
+  rotate: false
+  xy: 2, 101
+  size: 238, 166
+  orig: 249, 170
+  offset: 5, 1
+  index: -1
+effect2
+  rotate: true
+  xy: 661, 77
+  size: 94, 30
+  orig: 96, 30
+  offset: 1, 0
+  index: -1
+effect3
+  rotate: false
+  xy: 291, 2
+  size: 16, 5
+  orig: 17, 5
+  offset: 1, 0
+  index: -1
+energy
+  rotate: false
+  xy: 125, 6
+  size: 93, 93
+  orig: 125, 125
+  offset: 16, 16
+  index: -1
+eye
+  rotate: false
+  xy: 568, 72
+  size: 91, 99
+  orig: 91, 99
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 693, 102
+  size: 72, 67
+  orig: 91, 99
+  offset: 3, 31
+  index: -1
+eye3
+  rotate: false
+  xy: 693, 33
+  size: 72, 67
+  orig: 91, 99
+  offset: 3, 31
+  index: -1
+face
+  rotate: false
+  xy: 437, 48
+  size: 129, 123
+  orig: 130, 123
+  offset: 1, 0
+  index: -1
+hand
+  rotate: true
+  xy: 648, 30
+  size: 40, 39
+  orig: 40, 40
+  offset: 0, 1
+  index: -1
+magicstick
+  rotate: true
+  xy: 437, 173
+  size: 94, 249
+  orig: 95, 250
+  offset: 1, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 2, 16
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: false
+  xy: 688, 176
+  size: 75, 91
+  orig: 80, 93
+  offset: 5, 1
+  index: -1
+staff effect1
+  rotate: true
+  xy: 220, 2
+  size: 70, 69
+  orig: 74, 75
+  offset: 2, 3
+  index: -1
+staff effect2
+  rotate: false
+  xy: 242, 74
+  size: 193, 193
+  orig: 206, 205
+  offset: 7, 6
+  index: -1
+under robe
+  rotate: false
+  xy: 568, 17
+  size: 78, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+underboddy
+  rotate: true
+  xy: 2, 25
+  size: 74, 121
+  orig: 75, 121
+  offset: 0, 0
+  index: -1

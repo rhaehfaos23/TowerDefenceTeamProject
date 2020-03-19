@@ -1,0 +1,41 @@
+
+E_21301.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire
+  rotate: false
+  xy: 91, 2
+  size: 266, 158
+  orig: 266, 158
+  offset: 0, 0
+  index: -1
+fire effect1
+  rotate: true
+  xy: 2, 138
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+fire effect2
+  rotate: true
+  xy: 30, 138
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+fire effect3
+  rotate: true
+  xy: 58, 134
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 359, 2
+  size: 266, 158
+  orig: 266, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+E_21037.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice
+  rotate: false
+  xy: 2, 2
+  size: 212, 114
+  orig: 212, 114
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 2, 118
+  size: 212, 125
+  orig: 212, 125
+  offset: 0, 0
+  index: -1

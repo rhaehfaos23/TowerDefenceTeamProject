@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: I_41201
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: adfdbc05e66edb141ac1950a8f076acd, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 815fb725fd4e2a5458dc17983995775d, type: 3}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0
+  controller: {fileID: 9100000, guid: 1f17f88cc60ea794e9faafd0a5e5e107, type: 2}

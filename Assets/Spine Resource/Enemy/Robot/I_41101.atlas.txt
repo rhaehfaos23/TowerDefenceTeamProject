@@ -1,0 +1,97 @@
+
+I_41101.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boddy
+  rotate: false
+  xy: 170, 146
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+laft arm
+  rotate: false
+  xy: 244, 55
+  size: 41, 89
+  orig: 41, 89
+  offset: 0, 0
+  index: -1
+left foot
+  rotate: true
+  xy: 278, 146
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+left hand
+  rotate: false
+  xy: 347, 81
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 314, 188
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 348, 153
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 350, 221
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+master
+  rotate: false
+  xy: 2, 2
+  size: 166, 252
+  orig: 166, 252
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: true
+  xy: 170, 4
+  size: 43, 95
+  orig: 43, 95
+  offset: 0, 0
+  index: -1
+right foot
+  rotate: false
+  xy: 278, 182
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: false
+  xy: 287, 80
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: true
+  xy: 267, 13
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+under boddy 
+  rotate: true
+  xy: 170, 49
+  size: 95, 72
+  orig: 95, 72
+  offset: 0, 0
+  index: -1

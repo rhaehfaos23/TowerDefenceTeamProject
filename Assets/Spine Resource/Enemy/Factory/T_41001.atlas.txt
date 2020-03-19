@@ -1,0 +1,146 @@
+
+T_41001.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boddy
+  rotate: true
+  xy: 1175, 79
+  size: 429, 325
+  orig: 429, 325
+  offset: 0, 0
+  index: -1
+build
+  rotate: true
+  xy: 684, 67
+  size: 345, 489
+  orig: 345, 489
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 82, 23
+  size: 95, 59
+  orig: 95, 59
+  offset: 0, 0
+  index: -1
+dust1
+  rotate: false
+  xy: 314, 112
+  size: 71, 28
+  orig: 71, 28
+  offset: 0, 0
+  index: -1
+dust2
+  rotate: false
+  xy: 484, 158
+  size: 73, 29
+  orig: 73, 29
+  offset: 0, 0
+  index: -1
+dust3
+  rotate: true
+  xy: 440, 4
+  size: 136, 130
+  orig: 136, 130
+  offset: 0, 0
+  index: -1
+dust4
+  rotate: false
+  xy: 484, 189
+  size: 100, 40
+  orig: 100, 40
+  offset: 0, 0
+  index: -1
+engaze copy
+  rotate: true
+  xy: 142, 112
+  size: 117, 170
+  orig: 117, 170
+  offset: 0, 0
+  index: -1
+gas
+  rotate: false
+  xy: 572, 62
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+gas2
+  rotate: true
+  xy: 142, 84
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+left leg1-1
+  rotate: false
+  xy: 343, 9
+  size: 95, 101
+  orig: 95, 101
+  offset: 0, 0
+  index: -1
+light1 copy
+  rotate: false
+  xy: 1472, 544
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+light2 copy
+  rotate: false
+  xy: 1472, 781
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+mist
+  rotate: true
+  xy: 1156, 510
+  size: 512, 314
+  orig: 512, 314
+  offset: 0, 0
+  index: -1
+mist1
+  rotate: true
+  xy: 2, 231
+  size: 791, 638
+  orig: 791, 638
+  offset: 0, 0
+  index: -1
+mist2
+  rotate: true
+  xy: 642, 414
+  size: 608, 512
+  orig: 608, 512
+  offset: 0, 0
+  index: -1
+right leg1-1
+  rotate: true
+  xy: 2, 84
+  size: 145, 138
+  orig: 145, 138
+  offset: 0, 0
+  index: -1
+right leg1-2
+  rotate: true
+  xy: 179, 17
+  size: 93, 162
+  orig: 93, 162
+  offset: 0, 0
+  index: -1
+right leg2-1
+  rotate: false
+  xy: 2, 2
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+right leg2-2
+  rotate: true
+  xy: 314, 142
+  size: 87, 168
+  orig: 87, 168
+  offset: 0, 0
+  index: -1

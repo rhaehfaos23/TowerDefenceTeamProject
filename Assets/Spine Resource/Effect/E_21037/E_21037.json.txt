@@ -1,0 +1,52 @@
+{
+"skeleton": {
+	"hash": "QxugyZQnlP036l40QvLyFHDwXkM",
+	"spine": "3.8.68",
+	"x": -103,
+	"y": -13.18,
+	"width": 212.26,
+	"height": 125,
+	"images": "./E_21307/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "ice", "parent": "root", "x": -3, "y": 50.72 },
+	{ "name": "ice2", "parent": "root", "x": 8.68, "y": 60.31 }
+],
+"slots": [
+	{ "name": "ice", "bone": "ice", "attachment": "ice" },
+	{ "name": "ice2", "bone": "ice2", "attachment": "ice2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"ice2": {
+				"ice2": { "x": -5.42, "y": -11, "width": 212, "height": 125 }
+			},
+			"ice": {
+				"ice": { "x": 6, "y": -6.22, "width": 212, "height": 114 }
+			}
+		}
+	}
+],
+"animations": {
+	"E_21307": {
+		"slots": {
+			"ice2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			},
+			"ice": {
+				"color": [
+					{ "time": 1.3333, "color": "ffffffff" }
+				]
+			}
+		}
+	}
+}
+}

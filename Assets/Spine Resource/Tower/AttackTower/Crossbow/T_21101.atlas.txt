@@ -1,0 +1,153 @@
+
+T_21101.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+breast
+  rotate: false
+  xy: 311, 188
+  size: 133, 70
+  orig: 133, 70
+  offset: 0, 0
+  index: -1
+complete
+  rotate: false
+  xy: 2, 23
+  size: 193, 235
+  orig: 193, 235
+  offset: 0, 0
+  index: -1
+cross bow
+  rotate: false
+  xy: 311, 137
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 364, 94
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+eye 2
+  rotate: false
+  xy: 364, 51
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+eye 3
+  rotate: false
+  xy: 446, 176
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+eye 4
+  rotate: false
+  xy: 263, 11
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 197, 126
+  size: 112, 132
+  orig: 112, 132
+  offset: 0, 0
+  index: -1
+left arm
+  rotate: true
+  xy: 325, 6
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+left ear
+  rotate: false
+  xy: 430, 143
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+left hair
+  rotate: true
+  xy: 430, 104
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 197, 43
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+low boddy
+  rotate: false
+  xy: 287, 43
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: false
+  xy: 231, 6
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+right arm
+  rotate: true
+  xy: 486, 128
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+right ear
+  rotate: true
+  xy: 374, 10
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+right hair
+  rotate: false
+  xy: 426, 61
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: true
+  xy: 197, 6
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: false
+  xy: 446, 219
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 353, 6
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+tail 2
+  rotate: false
+  xy: 474, 103
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

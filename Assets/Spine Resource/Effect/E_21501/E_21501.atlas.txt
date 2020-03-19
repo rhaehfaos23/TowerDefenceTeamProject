@@ -1,0 +1,20 @@
+
+E_21501.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_001 spine.spine
+  rotate: false
+  xy: 2, 2
+  size: 347, 330
+  orig: 347, 330
+  offset: 0, 0
+  index: -1
+heart
+  rotate: true
+  xy: 351, 300
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1

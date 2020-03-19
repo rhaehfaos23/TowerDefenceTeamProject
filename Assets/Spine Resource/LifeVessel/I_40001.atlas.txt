@@ -1,0 +1,104 @@
+
+I_40001.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+I_40001/boddy
+  rotate: false
+  xy: 171, 135
+  size: 153, 116
+  orig: 153, 116
+  offset: 0, 0
+  index: -1
+I_40001/face
+  rotate: false
+  xy: 171, 72
+  size: 47, 61
+  orig: 47, 61
+  offset: 0, 0
+  index: -1
+I_40001/left arm
+  rotate: false
+  xy: 62, 17
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+I_40001/left hand
+  rotate: false
+  xy: 220, 102
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+I_40001/left hand in
+  rotate: true
+  xy: 2, 2
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+I_40001/leg
+  rotate: true
+  xy: 326, 137
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+I_40001/master
+  rotate: false
+  xy: 2, 71
+  size: 167, 180
+  orig: 167, 180
+  offset: 0, 0
+  index: -1
+I_40001/mouse
+  rotate: false
+  xy: 99, 64
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+I_40001/right arm
+  rotate: false
+  xy: 420, 206
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+I_40001/right hand
+  rotate: false
+  xy: 420, 167
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+I_40001/robe
+  rotate: false
+  xy: 326, 164
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+I_40001/robe head
+  rotate: false
+  xy: 2, 17
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+I_40001/shoes
+  rotate: true
+  xy: 484, 224
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+I_40001/sweat
+  rotate: false
+  xy: 220, 94
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1

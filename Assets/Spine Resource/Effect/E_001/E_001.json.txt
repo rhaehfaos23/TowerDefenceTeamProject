@@ -1,0 +1,59 @@
+{
+"skeleton": {
+	"hash": "fW2I5yQMZmlDItaV7Rd+kpegaFk",
+	"spine": "3.8.68",
+	"x": -263.5,
+	"y": -1.5,
+	"width": 533,
+	"height": 103,
+	"images": "C:/Users/Administrator/Desktop/E_001/E_001",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "effect", "parent": "root", "x": -0.14, "y": 50.35 },
+	{ "name": "effect1", "parent": "effect", "x": -75.15, "y": -9.22 },
+	{ "name": "effect2", "parent": "effect", "x": 41.83 }
+],
+"slots": [
+	{ "name": "effect1", "bone": "effect1", "attachment": "effect1" },
+	{ "name": "effect2", "bone": "effect2", "attachment": "effect2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"effect1": {
+				"effect1": { "x": 78.3, "y": 8.86, "width": 533, "height": 103 }
+			},
+			"effect2": {
+				"effect2": { "x": -40.16, "y": 0.65, "width": 445, "height": 87 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"effect1": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"effect2": {
+				"translate": [
+					{ "x": -38.09 },
+					{ "time": 2.6667, "x": -1.16 }
+				],
+				"scale": [
+					{ "x": 0.1, "y": 0.1 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}
